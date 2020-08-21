@@ -1,0 +1,31 @@
+.searchbar input {
+    width: 500px;
+    padding: 8px;
+    padding-left: 48px;
+    border-radius: var(--border-radius);
+    border: 2px solid rgb(173, 168, 158);
+    background-color: var(--background-color);
+}
+::placeholder {
+    color: rgb(173, 168, 158);
+}
+.searchbar input:hover {
+    border-color: var(--primary-color);
+}
+.searchbar {
+    position: relative;
+}
+.searchbar label {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-left: 15px;
+}
+.searchbar label svg {
+    color: rgb(173, 168, 158);
+}
+.searchbar input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+}

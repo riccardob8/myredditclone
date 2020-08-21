@@ -1,0 +1,19 @@
+.actions {
+    display: flex;
+    align-items: center;
+    color: rgb(173, 168, 158);
+}
+.actions div:nth-child(2) {
+    margin: 0px 10px;
+}
+.profile {
+    border: 2px solid transparent;
+    border-radius: var(--border-radius);
+}
+.profile:hover {
+    border: 2px solid rgb(173, 168, 158);
+}
+.profile svg {
+    margin-right: 8px;
+    margin-left: 8px;
+}
