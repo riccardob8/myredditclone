@@ -1,7 +1,7 @@
 My first full stack personal project, my spin on a reddit style blog site. I'm tackling UI first and once i have an idea of what features I wanna implement, I'm gonna start working on the Back End. 
-Feel free to hit me up for feedback or advice, as I'm still learning, I'd really appreciate it
+I am still learning a lot, so if you have any feedback or advice, feel free to hit me up!
 
-Minimum viable product features:
+MVP features:
 
 Users: creating, deleting, visiting and editing user accounts
 Posts: creating, deleting, editing, saving, voting and commenting on posts
